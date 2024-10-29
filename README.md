@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewseddon
-- 👀 I’m interested in MLOps, probabilistic programming, and chemistry
-- 🌱 I’m currently learning MLOps via Udacity!
+- 👀 I’m interested in machine learning and chemistry
+- 🌱 I’m currently learning C++ via Udacity!
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me by email.
 
